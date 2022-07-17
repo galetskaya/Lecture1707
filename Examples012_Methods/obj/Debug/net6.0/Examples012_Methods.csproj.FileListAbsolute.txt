@@ -1,0 +1,15 @@
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/bin/Debug/net6.0/Examples012_Methods
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/bin/Debug/net6.0/Examples012_Methods.deps.json
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/bin/Debug/net6.0/Examples012_Methods.runtimeconfig.json
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/bin/Debug/net6.0/Examples012_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/bin/Debug/net6.0/Examples012_Methods.pdb
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.csproj.AssemblyReference.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.AssemblyInfoInputs.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.AssemblyInfo.cs
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.csproj.CoreCompileInputs.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/refint/Examples012_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.pdb
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/Examples012_Methods.genruntimeconfig.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Examples012_Methods/obj/Debug/net6.0/ref/Examples012_Methods.dll
