@@ -1,0 +1,15 @@
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.csproj.AssemblyReference.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.AssemblyInfoInputs.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.AssemblyInfo.cs
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.csproj.CoreCompileInputs.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/bin/Debug/net6.0/Example012_2_Methods
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/bin/Debug/net6.0/Example012_2_Methods.deps.json
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/bin/Debug/net6.0/Example012_2_Methods.runtimeconfig.json
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/bin/Debug/net6.0/Example012_2_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/bin/Debug/net6.0/Example012_2_Methods.pdb
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/refint/Example012_2_Methods.dll
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.pdb
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/Example012_2_Methods.genruntimeconfig.cache
+/Users/alikagaletsky/Documents/GeekBrains/Lecture1707/Lecture1707/Example012_2_Methods/obj/Debug/net6.0/ref/Example012_2_Methods.dll
